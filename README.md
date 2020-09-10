@@ -20,3 +20,7 @@ Supplement folder contains
 standard algo in treatment effect estimation.
 (2) More simulation results complementing Section 4 results (k=3 and k=8).
 (3) Analysis of the the NHANES data.
+
+# 9/10/2020
+Additional codes are included that adds outcome model to the simulation cases
+and compares different methods for treatment effect estimation.
