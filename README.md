@@ -24,3 +24,8 @@ standard algo in treatment effect estimation.
 # 9/10/2020
 Additional codes are included that adds outcome model to the simulation cases
 and compares different methods for treatment effect estimation.
+
+# 5/13/2021
+The organization of the results have been changed. The earlier code has not been removed.
+The code to reproduce the results after this reorganization is given in the folder
+"REORGANIZATION". The file names correspond to the related table.
